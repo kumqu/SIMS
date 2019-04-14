@@ -1,8 +1,8 @@
 # 环境配置:
-(1) 开发语言：python3.6
-(2) 数据库: sqlite3
-(3) Web框架：flask
-(4）Flask模块：Flask, Bootstrap, render_template,request, redirect, session, flash, g
+  1. 开发语言：python3.6
+  2. 数据库: sqlite3
+  3. Web框架：flask
+  4. Flask模块：Flask, Bootstrap, render_template,request, redirect, session, flash, g
 
 # 用法:
 (1) 运行 SIMS.py 文件
