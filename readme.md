@@ -1,16 +1,16 @@
-»·¾³ÅäÖÃ:
-(1) python3.6
-(2) sqlite3
-(3) Ó¦ÓÃ¿ò¼Ü£ºflask
-(4£©flask Ä£¿é£ºFlask, Bootstrap, render_template,request, redirect, session, flash, g
+# ç¯å¢ƒé…ç½®:
+(1) å¼€å‘è¯­è¨€ï¼špython3.6
+(2) æ•°æ®åº“: sqlite3
+(3) Webæ¡†æ¶ï¼šflask
+(4ï¼‰Flaskæ¨¡å—ï¼šFlask, Bootstrap, render_template,request, redirect, session, flash, g
 
-Êı¾İ¿âÎÄ¼ş£º
-(1) SIMS.db
+# ç”¨æ³•:
+(1) è¿è¡Œ SIMS.py æ–‡ä»¶
+(2) è®¿é—®ç½‘å€ï¼šhttp://127.0.0.1:5000/
 
-ÓÃ·¨:
-(1) ÔËĞĞ SIMS.py ÎÄ¼ş
-(2) ·ÃÎÊÍøÖ·£ºhttp://127.0.0.1:5000/
+# æ¼”ç¤ºæ•ˆæœ
+è§ picture/ ç›®å½•
 
-²âÊÔÓÃÀı£º
-(1) ¹ÜÀíÔ±Ãû£ºadmin    ¿ÚÁî£º123456
-(2) ÓÃ»§Ãû£º   user        ¿ÚÁî£º123456
+# æµ‹è¯•ï¼š
+(1) ç®¡ç†å‘˜åï¼šadmin    å£ä»¤ï¼š123456
+(2) ç”¨æˆ·åï¼š  user     å£ä»¤ï¼š123456
